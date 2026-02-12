@@ -25,3 +25,5 @@ if has_coupon != "Yes":
     print("Rule: No coupon used")
 
 print("Please pay:", final_price)
+
+
